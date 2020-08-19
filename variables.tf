@@ -14,10 +14,10 @@ variable "mgmt_subnet_prefix" {default = "10.0.1.0/24"}
 variable "external_subnet_prefix" {default = "10.0.2.0/24"}
 variable "internal_subnet_prefix" {default = "10.0.3.0/24"}
 
-variable "f5vm01int" {}
-variable "f5vm02int" {}
-variable "f5vm01ext_sec" {}
-variable "f5vm02ext_sec" {}
+#variable "f5vm01int" {}
+#variable "f5vm02int" {}
+#variable "f5vm01ext_sec" {}
+#variable "f5vm02ext_sec" {}
 
 
 #Resource Group
