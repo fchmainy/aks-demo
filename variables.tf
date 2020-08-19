@@ -20,5 +20,5 @@ variable "f5vm01ext_sec" {}
 variable "f5vm02ext_sec" {}
 
 
-#other variables
-variable "rg_name" {"fch_rg"}
+#Resource Group
+variable "rg_name" {}
