@@ -21,6 +21,4 @@ variable "f5vm02ext_sec" {}
 
 
 #other variables
-variable "prefix" {}
 variable "rg_name" {}
-variable "upassword" {}
