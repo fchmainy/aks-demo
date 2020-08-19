@@ -21,4 +21,4 @@ variable "f5vm02ext_sec" {}
 
 
 #other variables
-variable "rg_name" {fch_rg}
+variable "rg_name" {"fch_rg"}
